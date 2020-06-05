@@ -10,5 +10,5 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 	- my_answers.py : provides helper functions, called and executed in Predicting_bike_sharing_data.ipynb
 
 # How to use
-       - Place hour.csv and day.csv in a folder called Bike-Sharing-Dataset
-       - Execute Predicting_bike_sharing_data.ipynb; Make sure to run all the cells
+	- Place hour.csv and day.csv in a folder called Bike-Sharing-Dataset
+	- Execute Predicting_bike_sharing_data.ipynb; Make sure to run all the cells
